@@ -1,5 +1,4 @@
 package mathQuiz;
-
 import java.util.Scanner;
 
 public class main {
@@ -31,8 +30,6 @@ public class main {
 	  
 		//passing variable to mathTest Class
 		mathTests testChoice = new mathTests(userInput);
-	    
-	    
 	}
 		  
 }
